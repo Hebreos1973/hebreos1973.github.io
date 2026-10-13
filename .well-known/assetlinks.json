@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.hebreostv.app",
+        "sha256_cert_fingerprints": ["1C:6C:A5:5B:CF:EB:3D:91:43:26:DB:AE:10:DA:76:84:7A:4D:C3:CF:B3:97:60:EA:51:17:EE:41:9D:AA:BD:D1"]
+      }
+    }]
